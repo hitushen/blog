@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>测试</title>
+      <link href="2021/01/23/ce-shi/"/>
+      <url>2021/01/23/ce-shi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h1><ul><li>(.NET) m3u8 downloader 开源的命令行m3u8/HLS下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等.</li></ul><h1 id="使用初衷"><a href="#使用初衷" class="headerlink" title="使用初衷"></a>使用初衷</h1><ul><li>其实IDM也具备下载m3u8的功能，但是我在下载腾讯课堂的内容时，IDM提示由于版权问题不让下载。这个工具可以无视版权下载视频流</li></ul><h1 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h1><ul><li>一个简单易用的m3u8下载器，支持下载m3u8链接或文件为mp4或ts格式，并提供丰富的命令行选项。</li><li>这无序列表</li></ul><ol><li>不支持优酷视频解密</li><li>支持AES-128-CBC加密自动解密</li><li>支持多线程下载</li><li>支持下载限速</li><li>支持断点续传</li><li>支持Master List</li><li>支持直播流录制(BETA)</li><li>支持自定义HTTP Headers</li></ol><pre class=" language-html"><code class="language-html">这里放代码<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">></span></span>支持自动合并 (二进制合并或使用ffmpeg合并)<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span><span class="token punctuation">></span></span>支持选择下载m3u8中的指定时间段/分片内容支持下载路径为网络驱动器的情况支持下载外挂字幕轨道、音频轨道支持仅合并为音频自动使用系统代理（可禁止）提供SimpleG简易的GUI生成常用参数用户文档</code></pre><p><a href="https://nilaoda.github.io/N_m3u8DL-CLI/">https://nilaoda.github.io/N_m3u8DL-CLI/</a></p><p>项目地址<br><a href="https://github.com/nilaoda/N_m3u8DL-CLI/releases">https://github.com/nilaoda/N_m3u8DL-CLI/releases</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="2021/01/18/hello-world/"/>
+      <url>2021/01/18/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>

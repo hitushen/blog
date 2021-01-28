@@ -387,6 +387,7 @@ header .side-nav .social-link {
     color: #fff;
     background-color: transparent;
     border-radius: 30px;
+    position: absolute;
     box-shadow: none;
 }
 
